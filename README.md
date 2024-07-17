@@ -1,2 +1,1 @@
-# PerpCourseHenry
-Repositorio prueba del modulo2 del prepcourse de henry
+Como clonar mi repositorio local desde mi computadora desde mi github a mi escritorio local
